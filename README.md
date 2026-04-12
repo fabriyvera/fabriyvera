@@ -29,5 +29,3 @@ and building things as part of a team.
 **Database:** Supabase · SQL Server · MySQL
 **Cloud & Deploy:** Vercel · Microsoft Azure
 **Tools:** Git · Postman
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriyvera&show_icons=true)
