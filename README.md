@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fab :)
+Computer Systems Engineering student. Building web apps with Next.js & FastAPI
 
-<!--
-**fabriyvera/fabriyvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer with experience building projects using technologies like
+Next.js, React, FastAPI, and Supabase, with deployments on Vercel and Microsoft Azure.
+I'm comfortable working with SQL Server, Postman, and Git as part of my daily workflow.
+
+I've led programming projects at my university and genuinely enjoy collaborating
+and building things as part of a team.
+
+📫 [www.linkedin.com/in/fabricio-vera-60323433a]
+
+---
+
+## 🌱 Currently learning
+- Developing AI agents
+
+---
+
+
+## 🛠️ Tech stack
+
+**Frontend:** Next.js · React
+**Backend:** FastAPI
+**Database:** Supabase · SQL Server · MySQL
+**Cloud & Deploy:** Vercel · Microsoft Azure
+**Tools:** Git · Postman
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriyvera&show_icons=true)
