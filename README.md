@@ -16,12 +16,6 @@ and building things as part of a team.
 
 ---
 
-## 🌱 Currently learning
-- Developing AI agents
-
----
-
-
 ## 🛠️ Tech stack
 
 **Frontend:** Next.js · React
