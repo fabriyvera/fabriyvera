@@ -1,5 +1,5 @@
 # Hi, I'm Fab :)
-Computer Systems Engineering student. Building web apps with Next.js & FastAPI
+Computer Systems Engineering student.
 
 ---
 
